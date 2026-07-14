@@ -124,6 +124,24 @@
     "text_explain": "#text(size: 9pt,weight: \"bold\", [Bestimme einen beliebigen Konkurrenten und lasse dir von ihm für jeden Spieler den du in dieser Farbe in deinem Team hast, #emoji.volleyball geben.])",
     "value": "3",
     "n": 3
+  }, 
+  {
+    "name": "Haus",
+    "name_orig": "Haus",
+    "image": "",
+    "text_circle": "#text(size: 25pt,[Floatserve! ])",
+    "text_explain": "#text(size: 8pt,weight: \"bold\", )[Lege diese Karte auf eine komplette Farbgruppe und erhöhe so die Punkte um 3#emoji.volleyball.\n\n #text(size: 8pt,weight: \"regular\", [Darf nicht auf Pfosten und Linien gelegt werden.])]",
+    "value": "3",
+    "n": 3
+  }, 
+  {
+    "name": "Hotel",
+    "name_orig": "Hotel",
+    "image": "",
+    "text_circle": "#text(size: 25pt,[Jumpserve! ])",
+    "text_explain": "#text(size: 8pt,weight: \"bold\", [Lege diese Karte auf eine komplette Farbgruppe die bereits den Floatserve beherrscht und erhöhe so die Punkte um 4 #emoji.volleyball.\n\n #text(size: 8pt,weight: \"regular\", [Der Floatserve bleibt])])",
+    "value": "4",
+    "n": 2
   }
 
 ]

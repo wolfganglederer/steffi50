@@ -9,5 +9,7 @@ Spiel zu Steffi's 50 Geburtstag
 - [x] Aktionkarten erstellen
 - [x] Mietekarten erstellen
 - [ ] Joker Karten erstellen
-- [ ] Haus und Hotel erstellen
+- [ ] Spezial-Joker Karten erstellen
+- [x] Haus und Hotel erstellen
 - [ ] Fotos einbauen
+- [ ] Alternative für Schuldensammler
