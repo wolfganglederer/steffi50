@@ -1,4 +1,4 @@
-#set text(font: "Open Sans")
+#set text(font: "Noto Sans")
 
 
 #let json_player = json("spieler.json")
@@ -72,7 +72,7 @@
       fill: white,
       inset: -10pt,
       [
-        #align(center + horizon, text(size: 20pt, weight: "bold", spacing: -2pt, [#player.value #emoji.volleyball]))],
+        #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [#player.value #emoji.volleyball]))],
     ))
   ]
   h(15pt)
@@ -88,7 +88,7 @@
         radius: 28mm,
         stroke: black + 2pt,
         inset: -10pt,
-        align(center + horizon, text(size: 60pt, spacing: -8pt, weight: "bold", [#points_i #emoji.volleyball])),
+        align(center + horizon, text(size: 70pt, spacing: -3pt, weight: "bold", [#points_i #emoji.volleyball])),
       ))
     ]
     #place(left + top, dy: -3mm, dx: -3mm, circle(
@@ -97,7 +97,7 @@
       fill: white,
       inset: -10pt,
       [
-        #align(center + horizon, text(size: 20pt, weight: "bold", spacing: -2pt, [#points_i #emoji.volleyball]))],
+        #align(center + horizon, text(size: 20pt, weight: "bold", spacing:0pt, [#points_i #emoji.volleyball]))],
     ))
   ]
   h(15pt)
@@ -118,7 +118,7 @@
     fill: white,
     inset: -10pt,
     [
-      #align(center + horizon, text(size: 16pt, weight: "black", spacing: -2pt, [10 #emoji.volleyball]))],
+      #align(center + horizon, text(size: 16pt, weight: "black", spacing: 0pt, [10 #emoji.volleyball]))],
   ))
 ]
 
@@ -147,7 +147,7 @@
       fill: white,
       inset: -10pt,
       [
-        #align(center + horizon, text(size: 20pt, weight: "bold", spacing: -2pt, [ #action.value #emoji.volleyball]))],
+        #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [ #action.value #emoji.volleyball]))],
     ))
   ]
   h(15pt)

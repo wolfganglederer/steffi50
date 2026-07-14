@@ -30,8 +30,8 @@
     "name": "Geburtstag",
     "name_orig": "Du hast Geburtstag",
     "image": "",
-    "text_circle": "#text(size: 26pt,[Du hast Geburtstag\n\n #emoji.cake])",
-    "text_explain": "#text(weight: \"bold\", [Jeder Mitspieler gibt dir 2 #emoji.volleyball])",
+    "text_circle": "#text(size: 26pt)[Du hast Geburtstag #text(size: 50pt, weight:  \"regular\",[#emoji.cake])]",
+    "text_explain": "#text(weight: \"bold\", [Jeder Mitspieler gibt dir 2 #emoji.volleyball ])",
     "value": "2",
     "n": 3
   },
