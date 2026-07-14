@@ -5,6 +5,7 @@
 #let json_player = json("spieler.json")
 
 #for player in json_player {
+    if("position2" not in player) {
   box(width: 74mm, height: 105mm, radius: 4mm, stroke: 0.5pt + black, inset: 5mm)[
     #box(width: 64mm, height: 95mm, stroke: 2pt + black, inset: 1pt, clip: true)[
       //#if (player.image != "") { place(bottom + right, dx: 0pt, dy: 3em, image("/img/" + player.image, width: 64mm, height: 95mm, fit: "cover")) }
@@ -71,11 +72,11 @@
       stroke: black + 2pt,
       fill: white,
       inset: -10pt,
-      [
-        #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [#player.value #emoji.volleyball]))],
+      [#v(-4pt)  #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [#player.value #emoji.volleyball]))],
     ))
   ]
   h(15pt)
+    }
 }
 
 // Punktekarten
@@ -97,7 +98,7 @@
       stroke: black + 2pt,
       fill: white,
       inset: -10pt,
-      [
+      [#v(-4pt)
         #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [#points_i #emoji.volleyball]))],
     ))
   ]
@@ -147,7 +148,7 @@
         stroke: black + 2pt,
         fill: white,
         inset: -10pt,
-        [
+        [#v(-4pt)
           #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [ #action.value #emoji.volleyball]))],
       ))
     ]
@@ -235,7 +236,7 @@ h(15pt)
       stroke: black + 2pt,
       fill: white,
       inset: -10pt,
-      [
+      [#v(-4pt)
         #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [#player.value #emoji.volleyball]))],
     ))
 
@@ -286,7 +287,7 @@ h(15pt)
       stroke: black + 2pt,
       fill: white,
       inset: -10pt,
-      [
+      [#v(-4pt)
         #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [#player.value #emoji.volleyball]))],
     ))
 ])
