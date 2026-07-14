@@ -185,3 +185,114 @@ box(width: 74mm, height: 105mm, radius: 4mm, stroke: 0.5pt + black, inset: 5mm)[
 
 h(15pt)
 }
+
+// Joker Karten
+
+#for player in json_player {
+  if("position2" in player) {
+  box(width: 74mm, height: 105mm, radius: 4mm, stroke: 0.5pt + black, inset: 5mm)[
+    #box(width: 64mm, height: 95mm, stroke: 2pt + black, inset: 1pt, clip: true)[
+      #box(
+        text(size: 20pt)[#set align(horizon)
+          #h(7.5mm + 3mm + 9pt) #text(weight: "bold", fill: rgb(player.textcolor), if player.name
+            == "" [#player.original] else [#player.name])
+            #place(left, dy: -30pt, dx: 39pt, text(size: 10pt, fill: rgb(player.textcolor), player.position1))
+          #if (player.image != "") {
+            place(right, dy: 10pt, dx: -8pt, box(
+              stroke: 2pt + black,
+              width: 70pt,
+              height: 70pt,
+              radius: 50%,
+              clip: true,
+              image("/img/" + player.image, fit: "cover", width: 100%, height: 100%),
+            ))
+          }
+        ],
+        height: 60pt,
+        width: 1fr,
+        fill: rgb(player.color),
+        stroke: (bottom: 2pt + black),
+      )
+    ]
+      #place(top+left, dy: 80pt)[
+       #grid(
+         columns: (2fr, 1fr, 4fr),
+         row-gutter: 6pt,
+         inset: (left:4pt),
+         gutter: 0pt,
+         rows: auto,
+         align: (auto, left, center, auto),
+         ..range(player.group.len())
+           .map(i => (
+            [#text(spacing: -3pt, size: 12pt, [#for _ in range(i + 1) [#emoji.basketball ]])],
+             text(size: 12pt, weight: "bold", [#player.group.at(i).wert#emoji.volleyball]),
+             []))
+           .flatten(),
+       )
+       ]
+    #place(top + left, dy: -3mm, dx: -3mm, circle(
+      radius: 7.5mm,
+      stroke: black + 2pt,
+      fill: white,
+      inset: -10pt,
+      [
+        #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [#player.value #emoji.volleyball]))],
+    ))
+
+#place(top,rotate(180deg)[
+  
+    #box(width: 64mm, height: 95mm, stroke: 0pt + black, inset: 1pt, clip: true)[
+      #box(
+        text(size: 20pt)[#set align(horizon)
+          #h(7.5mm + 3mm + 9pt) #text(weight: "bold", fill: rgb(player.textcolor2), if player.name
+            == "" [#player.original] else [#player.name])
+            #place(left, dy: -30pt, dx: 39pt, text(size: 10pt, fill: rgb(player.textcolor2), player.position2))
+          #if (player.image != "") {
+            place(right, dy: 10pt, dx: -8pt, box(
+              stroke: 2pt + black,
+              width: 70pt,
+              height: 70pt,
+              radius: 50%,
+              clip: true,
+              image("/img/" + player.image, fit: "cover", width: 100%, height: 100%),
+            ))
+          }
+        ],
+        height: 60pt,
+        width: 1fr,
+        fill: rgb(player.color2),
+        stroke: (bottom: 2pt + black),
+      )
+    ]
+    #place(top+left, dy: 80pt)[
+       #grid(
+         columns: (2fr, 1fr, 4fr),
+         row-gutter: 6pt,
+         inset: (left:4pt),
+         gutter: 0pt,
+         rows: auto,
+         align: (auto, left, center, auto),
+         ..range(player.group2.len())
+           .map(i => (
+            [#text(spacing: -3pt, size: 12pt, [#for _ in range(i + 1) [#emoji.basketball ]])],
+             text(size: 12pt, weight: "bold", [#player.group2.at(i).wert#emoji.volleyball]),
+             []))
+           .flatten(),
+       )
+       ]
+
+    #place(top + left, dy: -3mm, dx: -3mm, circle(
+      radius: 7.5mm,
+      stroke: black + 2pt,
+      fill: white,
+      inset: -10pt,
+      [
+        #align(center + horizon, text(size: 20pt, weight: "bold", spacing: 0pt, [#player.value #emoji.volleyball]))],
+    ))
+])
+
+  ]
+  h(15pt)
+}
+}
+
