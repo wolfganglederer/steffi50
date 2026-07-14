@@ -1,0 +1,129 @@
+[
+{
+    "name": "Anpfiff!",
+    "name_orig": "Ziehe über los",
+    "image": "",
+    "text_circle": "#text(size: 33pt,[Seiten\nwechsel!])",
+    "text_explain": "#text(weight: \"bold\", [Ziehe 2 Karten.])",
+    "value": "1",
+    "n": 10 
+  },
+  {
+    "name": "Nope!",
+    "name_orig": "Sag einfach nein",
+    "image": "",
+    "text_circle": "#text(size: 35pt,[Doppel\nfehler!])",
+    "text_explain": "#text(weight: \"bold\", [Mache eine gegen dich gespielte Aktionskarte ungültig])",
+    "value": "2",
+    "n": 3
+  },
+  {
+    "name": "Deal",
+    "name_orig": "Deal Breaker",
+    "image": "",
+    "text_circle": "#text(size: 30pt,[Heim\nschieds\nrichter])",
+    "text_explain": "#text(weight: \"bold\", [Nimm einem Mitspieler eine komplette Positionsgruppe, inklusive Feld und Netz weg. \n\n #text(weight: \"regular\",[Lege sie vor dir ab.])])",
+    "value": "5",
+    "n": 2
+  },
+  {
+    "name": "Geburtstag",
+    "name_orig": "Du hast Geburtstag",
+    "image": "",
+    "text_circle": "#text(size: 26pt,[Du hast Geburtstag\n\n #emoji.cake])",
+    "text_explain": "#text(weight: \"bold\", [Jeder Mitspieler gibt dir 2 #emoji.volleyball])",
+    "value": "2",
+    "n": 3
+  },
+  {
+    "name": "Schuldensammler",
+    "name_orig": "Schuldensammler",
+    "image": "",
+    "text_circle": "#text(size: 30pt,[Schulden\nsammler])",
+    "text_explain": "#text(weight: \"bold\", [Ein belibieger Konkurrent muss dir 2~#emoji.volleyball geben])",
+    "value": "3",
+    "n": 3
+  },
+  {
+    "name": "Cleverer Deal",
+    "name_orig": "Cleverer Deal",
+    "image": "",
+    "text_circle": "#text(size: 20pt,[Abgeworben!])",
+    "text_explain": "#text(size: 9pt, weight: \"bold\", [Stibitze einen Spieler von einem belibiegen Konkurrenten und lege ihn vor dir ab.\n\n #text(size: 8pt, weight:  \"regular\",[Du darfs keinen Spieler aus einer kompletten Farbgruppe stibitzen.])])",
+    "value": "3",
+    "n": 3
+  },
+  {
+    "name": "Zwangsdeal",
+    "name_orig": "Zwangsdeal",
+    "image": "",
+    "text_circle": "#text(size: 30pt,[Nötigung!])",
+    "text_explain": "#text(size: 9pt, weight: \"bold\", [Tausche einen Spieler mit einem belibiegen Konkurrenten aus.\n\n #text(size: 8pt, weight:  \"regular\",[Du darfs keinen Spieler aus einer kompletten Farbgruppe tauschen.])])",
+    "value": "3",
+    "n": 3
+  },
+  {
+    "name": "Doppelte Miete",
+    "name_orig": "Doppelte Miete",
+    "image": "",
+    "text_circle": "#text(size: 30pt,[Doppelte\nPunkte!])",
+    "text_explain": "#text(weight: \"bold\", [Spiele diese Karte mit einer Anpfiffkarte. Kassiere doppelte Punkte.])",
+    "value": "1",
+    "n": 2
+  }, 
+  {
+    "name": "Miete",
+    "name_orig": "Miete rot/gelb",
+    "image": "",
+    "text_circle": "#text(size: 20pt,[Anpfiff! \n #grid(columns: 2, rect(stroke: black+1pt,  fill: rgb(\"#FFDA03\")), rect(stroke: black+1pt, fill: rgb(\"#D30000\"))) \n\n #text(size: 10pt,[Wähle rot oder gelb])])",
+    "text_explain": "#text(weight: \"bold\", [Gewinne #emoji.volleyball von jedem Konkurrenten für jeden Spieler dieser Farbe.])",
+    "value": "1",
+    "n": 2
+  }, 
+  {
+    "name": "Miete",
+    "name_orig": "Miete mintgrün/schwarz",
+    "image": "",
+    "text_circle": "#text(size: 20pt,[Anpfiff! \n #grid(columns: 2, rect(stroke: black+1pt,  fill: rgb(\"#000000\")), rect(stroke: black+1pt, fill: rgb(\"#e7f9e4\"))) \n\n #text(size: 10pt,[Wähle schwartz oder mintgrün])])",
+    "text_explain": "#text(weight: \"bold\", [Gewinne #emoji.volleyball von jedem Konkurrenten für jeden Spieler dieser Farbe.])",
+    "value": "1",
+    "n": 2
+  }, 
+  {
+    "name": "Miete",
+    "name_orig": "Miete mintgrün/schwarz",
+    "image": "",
+    "text_circle": "#text(size: 20pt,[Anpfiff! \n #grid(columns: 2, rect(stroke: black+1pt,  fill: rgb(\"#A0522D\")), rect(stroke: black+1pt, fill: rgb(\"#9ED7E6\"))) \n\n #text(size: 10pt,[Wähle braun oder hellblau])])",
+    "text_explain": "#text(weight: \"bold\", [Gewinne #emoji.volleyball von jedem Konkurrenten für jeden Spieler dieser Farbe.])",
+    "value": "1",
+    "n": 2
+  }, 
+  {
+    "name": "Miete",
+    "name_orig": "Miete mintgrün/schwarz",
+    "image": "",
+    "text_circle": "#text(size: 20pt,[Anpfiff! \n #grid(columns: 2, rect(stroke: black+1pt,  fill: rgb(\"#B5338A\")), rect(stroke: black+1pt, fill: rgb(\"#DB9100\"))) \n\n #text(size: 10pt,[Wähle magenta oder orange])])",
+    "text_explain": "#text(weight: \"bold\", [Gewinne #emoji.volleyball von jedem Konkurrenten für jeden Spieler dieser Farbe.])",
+    "value": "1",
+    "n": 2
+  }, 
+  {
+    "name": "Miete",
+    "name_orig": "Miete mintgrün/schwarz",
+    "image": "",
+    "text_circle": "#text(size: 20pt,[Anpfiff! \n #grid(columns: 2, rect(stroke: black+1pt,  fill: rgb(\"#08519c\")), rect(stroke: black+1pt, fill: rgb(\"#41A317\"))) \n\n #text(size: 10pt,[Wähle blau oder grün])])",
+    "text_explain": "#text(weight: \"bold\", [Gewinne #emoji.volleyball von jedem Konkurrenten für jeden Spieler dieser Farbe.])",
+    "value": "1",
+    "n": 2
+  }, 
+  {
+    "name": "Miete",
+    "name_orig": "Miete mintgrün/schwarz",
+    "image": "",
+    "text_circle": "#text(size: 20pt,[Anpfiff! \n #rect(fill:  gradient.linear(..color.map.rainbow), width: 80pt) \n\n #text(size: 10pt,[Wähle eine belibiege Farbe])])",
+    "text_explain": "#text(size: 9pt,weight: \"bold\", [Bestimme einen beliebigen Konkurrenten und lasse dir von ihm für jeden Spieler den du in dieser Farbe in deinem Team hast, #emoji.volleyball geben.])",
+    "value": "3",
+    "n": 3
+  }
+
+]

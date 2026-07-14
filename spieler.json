@@ -1,0 +1,610 @@
+[
+{
+    "name": "Wolfgang",
+    "original": "Badstrasse",
+    "position1": "Zuspieler",
+    "positon2": "Mittelblocker",
+    "color": "#A0522D", 
+    "textcolor": "#ffffff",
+    "image": "Lederer_Wolfgang_006small_b.jpg",
+    "value": 1,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      } 
+    ]
+  },
+{
+    "name": "",
+    "original": "Turmstrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#A0522D", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 1,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      } 
+    ]
+  },
+
+  {
+    "name": "Denise",
+    "original": "Neue Strasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#B5338A", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 4
+      } 
+    ]
+  },
+
+  {
+    "name": "",
+    "original": "Hafenstrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#B5338A", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 4
+      } 
+    ]
+  },
+
+  {
+    "name": "",
+    "original": "Seestrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#B5338A", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 4
+      } 
+    ]
+  },
+
+  {
+    "name": "Joscha",
+    "original": "Rathhausplatz",
+    "position1": "",
+    "positon2": "",
+    "color": "#41A317", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 4,
+    "group": [
+      {
+        "wert": 2
+      },
+      {
+        "wert": 4
+      },
+      {
+        "wert": 7
+      } 
+    ]
+  },
+
+  {
+    "name": "",
+    "original": "Hauptstrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#41A317", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 4,
+    "group": [
+      {
+        "wert": 2
+      },
+      {
+        "wert": 4
+      },
+      {
+        "wert": 7
+      } 
+    ]
+  },
+
+    {
+    "name": "",
+    "original": "Bahnhofstrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#41A317", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 4,
+    "group": [
+      {
+        "wert": 2
+      },
+      {
+        "wert": 4
+      },
+      {
+        "wert": 7
+      } 
+    ]
+  },
+
+    {
+    "name": "",
+    "original": "Lessingstrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#FFDA03", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 3,
+    "group": [
+      {
+        "wert": 2
+      },
+      {
+        "wert": 4
+      },
+      {
+        "wert": 6
+      } 
+    ]
+  },
+
+
+    {
+    "name": "",
+    "original": "Schillerstrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#FFDA03", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 3,
+    "group": [
+      {
+        "wert": 2
+      },
+      {
+        "wert": 4
+      },
+      {
+        "wert": 6
+      } 
+    ]
+  },
+      {
+    "name": "",
+    "original": "Goethestrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#FFDA03", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 3,
+    "group": [
+      {
+        "wert": 2
+      },
+      {
+        "wert": 4
+      },
+      {
+        "wert": 6
+      } 
+    ]
+  },
+      {
+    "name": "",
+    "original": "Wiener Strasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#DB9100", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 5
+      } 
+    ]
+  },
+{
+    "name": "",
+    "original": "Münchner Strasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#DB9100", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 5
+      } 
+    ]
+  },
+  {
+    "name": "",
+    "original": "Berliner Strasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#DB9100", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 5
+      } 
+    ]
+  },
+
+    {
+    "name": "",
+    "original": "Opernplatz",
+    "position1": "",
+    "positon2": "",
+    "color": "#D30000", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 3,
+    "group": [
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 6
+      } 
+    ]
+  },
+
+      {
+    "name": "",
+    "original": "Theaterplatz",
+    "position1": "",
+    "positon2": "",
+    "color": "#D30000", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 3,
+    "group": [
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 6
+      } 
+    ]
+  },
+
+      {
+    "name": "",
+    "original": "Museumstrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#D30000", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 3,
+    "group": [
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 6
+      } 
+    ]
+  },
+
+   {
+    "name": "",
+    "original": "Chausseestrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#9ED7E6", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 1,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      } 
+    ]
+  },
+
+   {
+    "name": "",
+    "original": "Poststrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#9ED7E6", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 1,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      } 
+    ]
+  },
+
+
+     {
+    "name": "",
+    "original": "Elisenstrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#9ED7E6", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 1,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      } 
+    ]
+  },
+
+     {
+    "name": "",
+    "original": "Parkstrasse",
+    "position1": "",
+    "positon2": "",
+    "color": "#08519c", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 4,
+    "group": [
+      {
+        "wert": 3
+      },
+      {
+        "wert": 8
+      }
+    ]
+  },
+
+     {
+    "name": "",
+    "original": "Schlossalee",
+    "position1": "",
+    "positon2": "",
+    "color": "#08519c", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 4,
+    "group": [
+      {
+        "wert": 3
+      },
+      {
+        "wert": 8
+      }
+    ]
+  },
+
+
+     {
+    "name": "",
+    "original": "Westbahnhof",
+    "position1": "",
+    "positon2": "",
+    "color": "#000000", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 4
+      }
+    ]
+  },
+
+       {
+    "name": "",
+    "original": "Nordbahnhof",
+    "position1": "",
+    "positon2": "",
+    "color": "#000000", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 4
+      }
+    ]
+  },
+
+       {
+    "name": "",
+    "original": "Hauptbahnhof",
+    "position1": "",
+    "positon2": "",
+    "color": "#000000", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 4
+      }
+    ]
+  },
+
+       {
+    "name": "",
+    "original": "Südbahnhof",
+    "position1": "",
+    "positon2": "",
+    "color": "#000000", 
+    "textcolor": "#ffffff",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      },
+      {
+        "wert": 3
+      },
+      {
+        "wert": 4
+      }
+    ]
+  },
+
+       {
+    "name": "",
+    "original": "Elekrizitätswerk",
+    "position1": "",
+    "positon2": "",
+    "color": "#e7f9e4", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      }
+    ]
+  },
+
+
+        {
+    "name": "",
+    "original": "Wasserwerk",
+    "position1": "",
+    "positon2": "",
+    "color": "#e7f9e4", 
+    "textcolor": "#000000",
+    "image": "",
+    "value": 2,
+    "group": [
+      {
+        "wert": 1
+      },
+      {
+        "wert": 2
+      }
+    ]
+  }
+]
