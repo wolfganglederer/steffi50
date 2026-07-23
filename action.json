@@ -130,7 +130,7 @@
     "name_orig": "Haus",
     "image": "",
     "text_circle": "#text(size: 25pt,[Floatserve! ])",
-    "text_explain": "#text(size: 8pt,weight: \"bold\", )[Lege diese Karte auf eine komplette Farbgruppe und erhöhe so die Punkte um 3#emoji.volleyball.\n\n #text(size: 8pt,weight: \"regular\", [Darf nicht auf Ehemalige gelegt werden.])]",
+    "text_explain": "#text(size: 8pt,weight: \"bold\", )[Lege diese Karte auf eine komplette Farbgruppe und erhöhe so die Punkte um 3#emoji.volleyball.\n\n #text(size: 8pt,weight: \"regular\", [Darf nicht auf Spieler im Ruhestand gelegt werden.])]",
     "value": "3",
     "n": 3
   }, 

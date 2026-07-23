@@ -448,7 +448,7 @@
      {
     "name": "Mario",
     "original": "Westbahnhof",
-    "position1": "Ehemaliger",
+    "position1": "Aussen im Ruhestand",
     "color": "#000000", 
     "textcolor": "#ffffff",
     "image": "mario_2.jpg",
@@ -472,7 +472,7 @@
        {
     "name": "Karsten",
     "original": "Nordbahnhof",
-    "position1": "Ehemaliger",
+    "position1": "Mittelblocker im Ruhestand",
     "color": "#000000", 
     "textcolor": "#ffffff",
     "image": "karsten.jpg",
@@ -496,7 +496,7 @@
        {
     "name": "Jana",
     "original": "Hauptbahnhof",
-    "position1": "Ehemaliger",
+    "position1": "Zuspielerin im Ruhestand",
     "color": "#000000", 
     "textcolor": "#ffffff",
     "image": "jana.jpg",
@@ -520,7 +520,7 @@
        {
     "name": "Patrick",
     "original": "Mittellinie",
-    "position1": "Ehelmaliger",
+    "position1": "Mittelblocker im Ruhestand",
     "color": "#000000", 
     "textcolor": "#ffffff",
     "image": "patrick_alt.jpg",
@@ -544,7 +544,7 @@
        {
     "name": "Christoph",
     "original": "Elekrizitätswerk",
-    "position1": "Ehemaliger",
+    "position1": "Mittelblocker im Ruhestand",
     "color": "#e7f9e4", 
     "textcolor": "#000000",
     "image": "christoph.jpg",
@@ -563,7 +563,7 @@
         {
     "name": "Steffel",
     "original": "Wasserwerk",
-    "position1": "Ehelmaliger",
+    "position1": "Mittelblocker im Ruhestand",
     "color": "#e7f9e4", 
     "textcolor": "#000000",
     "image": "steffel_2.jpg",
@@ -612,7 +612,7 @@
     "name": "Christo",
     "original": "hellblau/schwarz",
     "position1": "Diagonal",
-    "position2": "Ehemliger",
+    "position2": "Mittelblocker im Ruhestand",
     "color": "#9ED7E6", 
     "color2": "#000000", 
     "textcolor": "#000000",
@@ -649,7 +649,7 @@
     "name": "Benni",
     "original": "Joker grün/schwarz",
     "position1": "Mittelblocker",
-    "position2": "Ehemaliger",
+    "position2": "Mittelblocker im Ruhestand",
     "color2": "#000000", 
     "color": "#41A317", 
     "textcolor": "#ffffff",
@@ -852,8 +852,8 @@
   {
     "name": "Susanne",
     "original": "Joker min/schwarz",
-    "position1": "Ehemalige",
-    "position2": "Ehemalige",
+    "position1": "Zuspielerin im Ruhestand",
+    "position2": "Zuspielerin im Ruhestand",
     "color": "#e7f9e4", 
     "color2": "#000000", 
     "textcolor": "#000000",
