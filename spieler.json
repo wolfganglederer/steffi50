@@ -1,11 +1,11 @@
 [
 {
-    "name": "Wolfgang",
+    "name": "Patrik",
     "original": "Badstrasse",
-    "position1": "Zuspieler",
+    "position1": "Aussenangreifer",
     "color": "#A0522D", 
     "textcolor": "#ffffff",
-    "image": "Lederer_Wolfgang_006small_b.jpg",
+    "image": "patrick.jpg",
     "value": 1,
     "group": [
       {
@@ -17,12 +17,12 @@
     ]
   },
 {
-    "name": "",
+    "name": "Christian",
     "original": "Turmstrasse",
-    "position1": "",
+    "position1": "Aussenangreifer",
     "color": "#A0522D", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "christian.jpg",
     "value": 1,
     "group": [
       {
@@ -35,12 +35,12 @@
   },
 
   {
-    "name": "Denise",
+    "name": "Steffel",
     "original": "Neue Strasse",
-    "position1": "",
+    "position1": "Mittelblocker",
     "color": "#B5338A", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "steffel_2.jpg",
     "value": 2,
     "group": [
       {
@@ -56,12 +56,12 @@
   },
 
   {
-    "name": "",
+    "name": "Jens",
     "original": "Hafenstrasse",
-    "position1": "",
+    "position1": "Mittelblocker",
     "color": "#B5338A", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "jens.jpg",
     "value": 2,
     "group": [
       {
@@ -77,12 +77,12 @@
   },
 
   {
-    "name": "",
+    "name": "Markus",
     "original": "Seestrasse",
-    "position1": "",
+    "position1": "Mittelblocker",
     "color": "#B5338A", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "markus.jpg",
     "value": 2,
     "group": [
       {
@@ -98,12 +98,12 @@
   },
 
   {
-    "name": "test",
+    "name": "Felix",
     "original": "Rathhausplatz",
-    "position1": "",
+    "position1": "Mittelblocker",
     "color": "#41A317", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "felix.jpg",
     "value": 4,
     "group": [
       {
@@ -119,12 +119,12 @@
   },
 
   {
-    "name": "",
+    "name": "Carsten",
     "original": "Hauptstrasse",
-    "position1": "",
+    "position1": "Mittelblocker",
     "color": "#41A317", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "carsten.jpg",
     "value": 4,
     "group": [
       {
@@ -140,12 +140,12 @@
   },
 
     {
-    "name": "test",
+    "name": "Matthias",
     "original": "Bahnhofstrasse",
-    "position1": "",
+    "position1": "Mittelblocker",
     "color": "#41A317", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "matthias_ernst.jpg",
     "value": 4,
     "group": [
       {
@@ -161,12 +161,12 @@
   },
 
     {
-    "name": "",
+    "name": "Lena",
     "original": "Lessingstrasse",
-    "position1": "",
+    "position1": "Zuspielerin",
     "color": "#FFDA03", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "lena.jpg",
     "value": 3,
     "group": [
       {
@@ -183,12 +183,12 @@
 
 
     {
-    "name": "",
+    "name": "Kathi",
     "original": "Schillerstrasse",
-    "position1": "",
+    "position1": "Zuspielerin",
     "color": "#FFDA03", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "kathi.jpg",
     "value": 3,
     "group": [
       {
@@ -203,12 +203,12 @@
     ]
   },
       {
-    "name": "",
+    "name": "Montanah",
     "original": "Goethestrasse",
-    "position1": "",
+    "position1": "Zuspilerin",
     "color": "#FFDA03", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "montanah.jpg",
     "value": 3,
     "group": [
       {
@@ -223,12 +223,12 @@
     ]
   },
       {
-    "name": "",
+    "name": "Denise",
     "original": "Wiener Strasse",
-    "position1": "",
+    "position1": "Aussenangreiferin",
     "color": "#DB9100", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "denise.jpg",
     "value": 2,
     "group": [
       {
@@ -243,12 +243,12 @@
     ]
   },
 {
-    "name": "",
+    "name": "Daniel",
     "original": "Münchner Strasse",
-    "position1": "",
+    "position1": "Aussenangreiferin",
     "color": "#DB9100", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "daniel.jpg",
     "value": 2,
     "group": [
       {
@@ -263,12 +263,12 @@
     ]
   },
   {
-    "name": "",
+    "name": "Maike",
     "original": "Berliner Strasse",
-    "position1": "",
+    "position1": "Aussenangreiferin",
     "color": "#DB9100", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "maike.jpg",
     "value": 2,
     "group": [
       {
@@ -284,12 +284,12 @@
   },
 
     {
-    "name": "",
+    "name": "Lukas",
     "original": "Opernplatz",
-    "position1": "",
+    "position1": "Aussenangreifer",
     "color": "#D30000", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "lukas.jpg",
     "value": 3,
     "group": [
       {
@@ -305,12 +305,12 @@
   },
 
       {
-    "name": "",
+    "name": "Wolle",
     "original": "Theaterplatz",
-    "position1": "",
+    "position1": "Aussenangreifer",
     "color": "#D30000", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "wolle.jpg",
     "value": 3,
     "group": [
       {
@@ -326,12 +326,12 @@
   },
 
       {
-    "name": "",
+    "name": "Oussema",
     "original": "Museumstrasse",
-    "position1": "",
+    "position1": "Aussenangreifer",
     "color": "#D30000", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "oussema.jpg",
     "value": 3,
     "group": [
       {
@@ -347,12 +347,12 @@
   },
 
    {
-    "name": "",
+    "name": "Wolfgang",
     "original": "Chausseestrasse",
-    "position1": "",
+    "position1": "Zuspielerin",
     "color": "#9ED7E6", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "wolfgang.jpg",
     "value": 1,
     "group": [
       {
@@ -368,12 +368,12 @@
   },
 
    {
-    "name": "",
+    "name": "Andrea",
     "original": "Poststrasse",
-    "position1": "",
+    "position1": "Zuspielerin",
     "color": "#9ED7E6", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "andrea.jpg",
     "value": 1,
     "group": [
       {
@@ -390,12 +390,12 @@
 
 
      {
-    "name": "",
+    "name": "Ursi",
     "original": "Elisenstrasse",
-    "position1": "",
+    "position1": "Zuspielerin",
     "color": "#9ED7E6", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "ursi.jpg",
     "value": 1,
     "group": [
       {
@@ -411,12 +411,12 @@
   },
 
      {
-    "name": "",
+    "name": "Pesan",
     "original": "Parkstrasse",
-    "position1": "",
+    "position1": "Abteilungsleiter",
     "color": "#08519c", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "pesan.jpg",
     "value": 4,
     "group": [
       {
@@ -429,12 +429,12 @@
   },
 
      {
-    "name": "",
+    "name": "Nico",
     "original": "Schlossalee",
-    "position1": "",
+    "position1": "Präsident",
     "color": "#08519c", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "nico.jpg",
     "value": 4,
     "group": [
       {
@@ -445,15 +445,13 @@
       }
     ]
   },
-
-
      {
-    "name": "Seitenlinie",
+    "name": "Mario",
     "original": "Westbahnhof",
-    "position1": "",
+    "position1": "Ehemaliger",
     "color": "#000000", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "mario_2.jpg",
     "value": 2,
     "group": [
       {
@@ -472,12 +470,12 @@
   },
 
        {
-    "name": "Grundlinie",
+    "name": "Karsten",
     "original": "Nordbahnhof",
-    "position1": "",
+    "position1": "Ehemaliger",
     "color": "#000000", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "karsten.jpg",
     "value": 2,
     "group": [
       {
@@ -496,12 +494,12 @@
   },
 
        {
-    "name": "3-Meterlinie",
+    "name": "Jana",
     "original": "Hauptbahnhof",
-    "position1": "",
+    "position1": "Ehemaliger",
     "color": "#000000", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "jana.jpg",
     "value": 2,
     "group": [
       {
@@ -520,12 +518,12 @@
   },
 
        {
-    "name": "",
+    "name": "Patrick",
     "original": "Mittellinie",
-    "position1": "",
+    "position1": "Ehelmaliger",
     "color": "#000000", 
     "textcolor": "#ffffff",
-    "image": "",
+    "image": "patrick_alt.jpg",
     "value": 2,
     "group": [
       {
@@ -544,12 +542,12 @@
   },
 
        {
-    "name": "Pfosten",
+    "name": "Phillip",
     "original": "Elekrizitätswerk",
-    "position1": "",
+    "position1": "Ehemaliger",
     "color": "#e7f9e4", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "phillip.jpg",
     "value": 2,
     "group": [
       {
@@ -563,12 +561,12 @@
 
 
         {
-    "name": "Netz",
+    "name": "Christian",
     "original": "Wasserwerk",
-    "position1": "",
+    "position1": "Ehelmaliger",
     "color": "#e7f9e4", 
     "textcolor": "#000000",
-    "image": "",
+    "image": "christian.jpg",
     "value": 2,
     "group": [
       {
@@ -580,15 +578,15 @@
     ]
   },
   {
-    "name": "Wolfgang",
+    "name": "Matthias",
     "original": "Joker hellblau/braun",
-    "position1": "Zuspieler",
-    "position2": "Mittelblocker",
+    "position1": "Aussenangreifer",
+    "position2": "Zuspieler",
     "color": "#A0522D", 
     "color2": "#9ED7E6", 
     "textcolor": "#ffffff",
     "textcolor2": "#000000",
-    "image": "Lederer_Wolfgang_006small_b.jpg",
+    "image": "matthias_egler.jpg",
     "value": 1,
     "group": [
       {
@@ -611,15 +609,15 @@
     ]
   },
   {
-    "name": "Test",
+    "name": "Christo",
     "original": "hellblau/schwarz",
-    "position1": "Zuspieler",
-    "position2": "Mittelblocker",
+    "position1": "Diagonal",
+    "position2": "Ehemliger",
     "color": "#9ED7E6", 
     "color2": "#000000", 
     "textcolor": "#000000",
     "textcolor2": "#ffffff",
-    "image": "Lederer_Wolfgang_006small_b.jpg",
+    "image": "christo.jpg",
     "value": 4,
     "group": [
       {
@@ -648,15 +646,15 @@
     ]
   },
   {
-    "name": "",
+    "name": "Benni",
     "original": "Joker grün/schwarz",
-    "position1": "Zuspieler",
-    "position2": "Mittelblocker",
+    "position1": "Mittelblocker",
+    "position2": "Ehemaliger",
     "color2": "#000000", 
     "color": "#41A317", 
     "textcolor": "#ffffff",
     "textcolor2": "#ffffff",
-    "image": "",
+    "image": "benni.jpg",
     "value": 4,
     "group": [
       {
@@ -685,15 +683,15 @@
     ]
   },
   {
-    "name": "",
+    "name": "Peter",
     "original": "Joker grün/blau",
-    "position1": "Zuspieler",
-    "position2": "Mittelblocker",
+    "position1": "Mittelblocker",
+    "position2": "Organisator",
     "color": "#41A317", 
     "color2": "#08519c", 
     "textcolor": "#ffffff",
     "textcolor2": "#ffffff",
-    "image": "",
+    "image": "peter.jpg",
     "value": 4,
     "group": [
       {
@@ -716,15 +714,15 @@
      ]
   },
   {
-    "name": "",
+    "name": "Schierzi",
     "original": "Joker gelb/rot",
     "position1": "Zuspieler",
-    "position2": "Mittelblocker",
+    "position2": "Aussenangreifer",
     "color": "#FFDA03", 
     "color2": "#D30000", 
     "textcolor": "#000000",
     "textcolor2": "#ffffff",
-    "image": "",
+    "image": "schierzi.jpg",
     "value": 3,
     "group": [
       {
@@ -750,15 +748,15 @@
      ]
   },
   {
-    "name": "",
+    "name": "Nadine",
     "original": "Joker gelb/rot",
-    "position1": "Zuspieler",
-    "position2": "Mittelblocker",
+    "position1": "Zuspielerin",
+    "position2": "Aussenangreiferin",
     "color": "#FFDA03", 
     "color2": "#D30000", 
     "textcolor": "#000000",
     "textcolor2": "#ffffff",
-    "image": "",
+    "image": "nadine.jpg",
     "value": 3,
     "group": [
       {
@@ -784,15 +782,15 @@
      ]
   },
   {
-    "name": "",
+    "name": "Joscha",
     "original": "Joker gold/magenta",
-    "position1": "Zuspieler",
+    "position1": "Aussenangreifer",
     "position2": "Mittelblocker",
     "color": "#DB9100", 
     "color2": "#B5338A", 
     "textcolor": "#000000",
     "textcolor2": "#ffffff",
-    "image": "",
+    "image": "joscha.jpg",
     "value": 2,
     "group": [
       {
@@ -818,15 +816,15 @@
      ]
   },
   {
-    "name": "",
+    "name": "Verena",
     "original": "Joker gold/magenta",
-    "position1": "Zuspieler",
-    "position2": "Mittelblocker",
+    "position1": "Aussenangreiferin",
+    "position2": "Mittelblockerin",
     "color": "#DB9100", 
     "color2": "#B5338A", 
     "textcolor": "#000000",
     "textcolor2": "#ffffff",
-    "image": "",
+    "image": "verena.jpg",
     "value": 2,
     "group": [
       {
@@ -852,15 +850,15 @@
      ]
   },
   {
-    "name": "",
+    "name": "Susanne",
     "original": "Joker min/schwarz",
-    "position1": "Zuspieler",
-    "position2": "Mittelblocker",
+    "position1": "Ehemalige",
+    "position2": "Ehemalige",
     "color": "#e7f9e4", 
     "color2": "#000000", 
     "textcolor": "#000000",
     "textcolor2": "#ffffff",
-    "image": "",
+    "image": "susanne.jpg",
     "value": 2,
     "group": [
       {
