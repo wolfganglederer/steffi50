@@ -35,12 +35,12 @@
   },
 
   {
-    "name": "Steffel",
+    "name": "Phillip",
     "original": "Neue Strasse",
     "position1": "Mittelblocker",
     "color": "#B5338A", 
     "textcolor": "#000000",
-    "image": "steffel_2.jpg",
+    "image": "phillip.jpg",
     "value": 2,
     "group": [
       {
@@ -205,7 +205,7 @@
       {
     "name": "Montanah",
     "original": "Goethestrasse",
-    "position1": "Zuspilerin",
+    "position1": "Zuspielerin",
     "color": "#FFDA03", 
     "textcolor": "#000000",
     "image": "montanah.jpg",
@@ -245,7 +245,7 @@
 {
     "name": "Daniel",
     "original": "Münchner Strasse",
-    "position1": "Aussenangreiferin",
+    "position1": "Aussenangreifer",
     "color": "#DB9100", 
     "textcolor": "#ffffff",
     "image": "daniel.jpg",
@@ -347,12 +347,12 @@
   },
 
    {
-    "name": "Wolfgang",
+    "name": "Schierzi",
     "original": "Chausseestrasse",
-    "position1": "Zuspielerin",
+    "position1": "Zuspieler",
     "color": "#9ED7E6", 
     "textcolor": "#000000",
-    "image": "wolfgang.jpg",
+    "image": "schierzi.jpg",
     "value": 1,
     "group": [
       {
@@ -542,12 +542,12 @@
   },
 
        {
-    "name": "Phillip",
+    "name": "Christoph",
     "original": "Elekrizitätswerk",
     "position1": "Ehemaliger",
     "color": "#e7f9e4", 
     "textcolor": "#000000",
-    "image": "phillip.jpg",
+    "image": "christoph.jpg",
     "value": 2,
     "group": [
       {
@@ -561,12 +561,12 @@
 
 
         {
-    "name": "Christian",
+    "name": "Steffel",
     "original": "Wasserwerk",
     "position1": "Ehelmaliger",
     "color": "#e7f9e4", 
     "textcolor": "#000000",
-    "image": "christian.jpg",
+    "image": "steffel_2.jpg",
     "value": 2,
     "group": [
       {
@@ -714,7 +714,7 @@
      ]
   },
   {
-    "name": "Schierzi",
+    "name": "Wolfgang",
     "original": "Joker gelb/rot",
     "position1": "Zuspieler",
     "position2": "Aussenangreifer",
@@ -722,7 +722,7 @@
     "color2": "#D30000", 
     "textcolor": "#000000",
     "textcolor2": "#ffffff",
-    "image": "schierzi.jpg",
+    "image": "wolfgang.jpg",
     "value": 3,
     "group": [
       {
