@@ -4,9 +4,9 @@ Spiel zu Steffi's 50 Geburtstag
 
 ## Todo
 
-- [ ] Namen zuweisen und sortieren
-- [ ] Fotos einbauen
-- [ ] Alternative für Schuldensammler
+- [x] Namen zuweisen und sortieren
+- [x] Fotos einbauen
+- [x] Alternative für Schuldensammler
 - [x] Straßenkarten erstellen
 - [x] Punktekarten erstellen
 - [x] Aktionkarten erstellen
