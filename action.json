@@ -84,7 +84,7 @@
     "name": "Miete",
     "name_orig": "Miete mintgrün/schwarz",
     "image": "",
-    "text_circle": "#text(size: 20pt,[Satzende! \n #grid(columns: 2, rect(stroke: black+1pt,  fill: rgb(\"#000000\")), rect(stroke: black+1pt, fill: rgb(\"#e7f9e4\"))) \n\n #text(size: 10pt,[Wähle schwartz oder mintgrün])])",
+    "text_circle": "#text(size: 20pt,[Satzende! \n #grid(columns: 2, rect(stroke: black+1pt,  fill: rgb(\"#000000\")), rect(stroke: black+1pt, fill: rgb(\"#e7f9e4\"))) \n\n #text(size: 10pt,[Wähle schwarz oder mintgrün])])",
     "text_explain": "#text(weight: \"bold\", [Gewinne #emoji.volleyball von jedem Konkurrenten für jeden Spieler dieser Farbe.])",
     "value": "1",
     "n": 2
