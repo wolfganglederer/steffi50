@@ -137,7 +137,10 @@
           radius: 28mm,
           stroke: black + 2pt,
           inset: -0pt,
-          align(center + horizon, text(size: 12pt, weight: "bold", eval(action.text_circle, mode: "markup"))),
+ //         [
+            align(center + horizon, text(size: 12pt, weight: "bold", eval(action.text_circle, mode: "markup")))
+          //#if (action.image != "") {
+          //image("/img/" + action.image, fit: "cover", width: 100%, height: 100%)}],
         ))
 
         #place(center + top, dy: 73mm, dx: 0pt, eval(action.text_explain, mode: "markup"))
@@ -178,7 +181,7 @@ box(width: 74mm, height: 105mm, radius: 4mm, stroke: 0.5pt + black, inset: 5mm)[
       #align(center + bottom, text(weight: "black", fill: white, stroke: black + 0.3pt, size: 14pt)[#set par(
           leading: 0.3em,
         )
-        Verwende diese Karte als Teil einer Belibiegen Farbgruppe
+        Verwende diese Karte als Teil einer beliebigen Farbgruppe.
       ])
     ]
   ]

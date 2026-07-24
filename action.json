@@ -11,7 +11,7 @@
   {
     "name": "Nope!",
     "name_orig": "Sag einfach nein",
-    "image": "",
+    "image": "wolfgang.jpg",
     "text_circle": "#text(size: 35pt,[Doppel\nfehler!])",
     "text_explain": "#text(weight: \"bold\", [Mache eine gegen dich gespielte Aktionskarte ungültig])",
     "value": "2",
